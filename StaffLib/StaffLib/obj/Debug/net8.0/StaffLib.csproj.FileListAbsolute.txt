@@ -1,0 +1,24 @@
+C:\Users\M\Desktop\Y4\OOAD\StaffLib\StaffLib\bin\Debug\net8.0\StaffLib.deps.json
+C:\Users\M\Desktop\Y4\OOAD\StaffLib\StaffLib\bin\Debug\net8.0\StaffLib.dll
+C:\Users\M\Desktop\Y4\OOAD\StaffLib\StaffLib\bin\Debug\net8.0\StaffLib.pdb
+C:\Users\M\Desktop\Y4\OOAD\StaffLib\StaffLib\obj\Debug\net8.0\StaffLib.csproj.AssemblyReference.cache
+C:\Users\M\Desktop\Y4\OOAD\StaffLib\StaffLib\obj\Debug\net8.0\StaffLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\Y4\OOAD\StaffLib\StaffLib\obj\Debug\net8.0\StaffLib.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\Y4\OOAD\StaffLib\StaffLib\obj\Debug\net8.0\StaffLib.AssemblyInfo.cs
+C:\Users\M\Desktop\Y4\OOAD\StaffLib\StaffLib\obj\Debug\net8.0\StaffLib.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\Y4\OOAD\StaffLib\StaffLib\obj\Debug\net8.0\StaffLib.dll
+C:\Users\M\Desktop\Y4\OOAD\StaffLib\StaffLib\obj\Debug\net8.0\refint\StaffLib.dll
+C:\Users\M\Desktop\Y4\OOAD\StaffLib\StaffLib\obj\Debug\net8.0\StaffLib.pdb
+C:\Users\M\Desktop\Y4\OOAD\StaffLib\StaffLib\obj\Debug\net8.0\ref\StaffLib.dll
+C:\Users\M\Desktop\Y4\OOAD\OOAD Assignment\StaffLib\StaffLib\bin\Debug\net8.0\StaffLib.deps.json
+C:\Users\M\Desktop\Y4\OOAD\OOAD Assignment\StaffLib\StaffLib\bin\Debug\net8.0\StaffLib.dll
+C:\Users\M\Desktop\Y4\OOAD\OOAD Assignment\StaffLib\StaffLib\bin\Debug\net8.0\StaffLib.pdb
+C:\Users\M\Desktop\Y4\OOAD\OOAD Assignment\StaffLib\StaffLib\obj\Debug\net8.0\StaffLib.csproj.AssemblyReference.cache
+C:\Users\M\Desktop\Y4\OOAD\OOAD Assignment\StaffLib\StaffLib\obj\Debug\net8.0\StaffLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\Y4\OOAD\OOAD Assignment\StaffLib\StaffLib\obj\Debug\net8.0\StaffLib.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\Y4\OOAD\OOAD Assignment\StaffLib\StaffLib\obj\Debug\net8.0\StaffLib.AssemblyInfo.cs
+C:\Users\M\Desktop\Y4\OOAD\OOAD Assignment\StaffLib\StaffLib\obj\Debug\net8.0\StaffLib.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\Y4\OOAD\OOAD Assignment\StaffLib\StaffLib\obj\Debug\net8.0\StaffLib.dll
+C:\Users\M\Desktop\Y4\OOAD\OOAD Assignment\StaffLib\StaffLib\obj\Debug\net8.0\refint\StaffLib.dll
+C:\Users\M\Desktop\Y4\OOAD\OOAD Assignment\StaffLib\StaffLib\obj\Debug\net8.0\StaffLib.pdb
+C:\Users\M\Desktop\Y4\OOAD\OOAD Assignment\StaffLib\StaffLib\obj\Debug\net8.0\ref\StaffLib.dll
